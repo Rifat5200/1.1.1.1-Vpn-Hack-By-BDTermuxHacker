@@ -8,7 +8,7 @@ pkg install git -y
 
 pkg install python -y
 
-git clone https://github.com/Rifat5200/1.1.1.1-Vpn-Hack-By-BDTermuxHacker
+git clone https://github.com/Rifat5200/1.1.1.1-Vpn-Hack-By-BDTermuxHacker/
 
 cd 1.1.1.1-Vpn-Hack-By-BDTermuxHacker
 
