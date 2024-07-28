@@ -12,7 +12,7 @@ git clone https://github.com/Rifat5200/1.1.1.1-Vpn-Hack-By-BDTermuxHacker.git
 
 ls
 
-cd BTH-RifatHacker
+cd 1.1.1.1-Vpn-Hack-By-BDTermuxHacker
 
 ls
 
